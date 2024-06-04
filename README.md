@@ -1,11 +1,2 @@
-# Data Analisis terhadap Taksi Kuning
-Taxi Kuning adalah ikon kota New York. Popularitasnya bahkan terkenal hingga ke Masyarakat global. 
-
-Sayangnya, pertumbuhan mode transportasi berbasis teknologi seperti Uber dan Lyft telah mengikis keberadaan Taxi Kuning di New York. Banyak dari penumpang Taksi Kuning telah beralih mode transportasi.
-
-Di sisi lain, sebagian dari pengemudi Taksi Kuning juga terikat dengan utang akibat pembelian Medali sebagai hak eksklusif mengangkut penumpang di jalanan kota New York.
-
-Dengan kata lain, pengemudi Taksi Kuning kesulitan mendapatkan penumpang karena persaingan, di sisi lain tidak dapat berhenti dari pekerjaan karena ada utang yang harus dibayarkan.
-
-Projek ini berusaha mengekskplorasi pertanyaan seputar “Bagaimana meningkatkan daya resistansi pengemudi taksi kuning di Tengah persaingan dan impitan utang melalui eksplorasi data analysis?
-![image](https://github.com/bdmilers/capstone02/assets/123224683/e243d166-e1d6-43d9-9d05-c409c9f9a64b)
+# Increasing Taxi Driver Income Through Understanding Customer Behavior
+New York City's yellow taxis are experiencing a significant decline in customers due to business competition with technology-based transportation companies such as Uber and Lyft. Yellow Taxi Vendor asked the Data Analyst team to understand this phenomenon, as well as look for opportunities to get more customers. I used EDA methods as well as several data visualization techniques to understand the behavior of yellow cab customers. Based on the analysis carried out, I am able to provide recommendations in the form of effective work time management, recognizing factors that can encourage an increase in customers and income, and optimizing payment methods for customer convenience, and can have an impact on receiving tips as the main income support for yellow taxi drivers. 
